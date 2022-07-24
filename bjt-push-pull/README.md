@@ -9,6 +9,7 @@ output stages. The voltage gain is 1. The schematic includes SPICE models.
 
 Connect a signal generator to `IN`. The input signal should be:
 
+* Sine wave
 * 1V Vpp
 * bias voltage 2.5V
 * Frequency 1KHz
